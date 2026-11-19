@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Core\\Src\\main.c",
               "ToolTip": "E:\\Files\\Programmes\\STM32\\IC_Creation_trinterview\\06_LED\\Core\\Src\\main.c",
               "RelativeToolTip": "Core\\Src\\main.c",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-11-03T06:52:49.44Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "Core\\Src\\gpio.c",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAEEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-11-03T06:50:51.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-03T06:50:51.433Z"
             }
           ]
         }

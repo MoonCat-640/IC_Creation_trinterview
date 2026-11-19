@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Core",
+    "\\Core\\Src",
+    "\\Drivers",
+    "\\Drivers\\CMSIS",
+    "\\Drivers\\CMSIS\\Core"
+  ],
+  "PreviewInSolutionExplorer": false
+}
